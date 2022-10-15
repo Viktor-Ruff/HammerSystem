@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HammerSystems</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="pizza">Пицца</string>
+    <string name="combo">Комбо</string>
+    <string name="deserts">Десерты</string>
+    <string name="drinks">Напитки</string>
+    <string name="actions">Акции</string>
+    <string name="italian_platter">Ассорти</string>
+    <string name="platter_description">Соус, сыр, маслины, ветчина, шампиньоны, томаты, лук красный</string>
+    <string name="platter_price">от 345 р</string>
+    <string name="pepperoni">Пепперони</string>
+    <string name="pepperoni_description">Соус, сыр Моцарелла, пепперони</string>
+    <string name="meat_description">Соус, сыр Моцарелла, ветчина, пепперони, бекон, петрушка</string>
+    <string name="meat">Мясное счастье</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu">Меню</string>
+    <string name="profile">Профиль</string>
+    <string name="basket">Корзина</string>
+    <string name="moscow">Москва</string>
+</resources>
